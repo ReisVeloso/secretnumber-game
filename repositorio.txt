@@ -1,4 +1,3 @@
-//////// TEste para ver git
 let listaSortNumSecreto = [];
 let numLimite = 3;
 let tentativa = 0;
