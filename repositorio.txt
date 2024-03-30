@@ -1,4 +1,3 @@
-//teste
 let listaSortNumSecreto = [];
 let numLimite = 3;
 let tentativa = 0;
